@@ -7,14 +7,23 @@
     scroll-behavior: smooth;
 }
 
-body {
+html, body {
     background-color: #16161a;
     color: #fff;
     font-family: "Poppins", sans-serif;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /* Nav Bar */
 
+header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
 header nav {
     display: flex;
     flex-direction: row;
@@ -80,14 +89,12 @@ header nav .header_logo img {
 }
 
 /* Main */
-
 section.main {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     text-align: center;
-    min-height: 70vh;
     animation: fadeInUp .8s;
 }
 
