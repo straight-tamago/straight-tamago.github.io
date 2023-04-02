@@ -29,7 +29,7 @@ header nav {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    padding: 20px 40px;
+    padding: 20px 10px;
     animation: fadeInDown .8s;
 }
 
