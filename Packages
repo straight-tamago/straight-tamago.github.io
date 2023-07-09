@@ -1,0 +1,32 @@
+Package: com.misakaproject.macaron
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Misaka Project
+Installed-Size: 792
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common
+Filename: ./debs/com.misakaproject.macaron_1.0.1_iphoneos-arm.deb
+Size: 409702
+MD5sum: 309b6e0dfc23d1e90e9dde3b050a9bb1
+SHA1: 565df02843b466ec30c0f0a32b9a5e7d32e09847
+SHA256: a2dde9d08bf7acb80021d989f59cb8a4822f83c0da0aab5e1ba7aca1d8961ff3
+Section: Tweaks
+Description: Displays a photo in the background of the dock for iOS15.
+Author: Misaka Project
+Name: Macaron
+
+Package: com.misakaproject.macaron
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Misaka Project
+Installed-Size: 792
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common
+Filename: ./debs/com.misakaproject.macaron_1.0.1_iphoneos-arm64.deb
+Size: 409732
+MD5sum: c3c0e9ec77c6913dcd0ca96ad9cf746d
+SHA1: 40cd044851db76c4d38c52cb65f6db14bbc04dee
+SHA256: c54fec68ce5757a017437e370c8752df922529a559bbb02ed8b3a515139391b2
+Section: Tweaks
+Description: Displays a photo in the background of the dock for iOS15.
+Author: Misaka Project
+Name: Macaron
+
