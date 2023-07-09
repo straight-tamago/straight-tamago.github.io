@@ -1,8 +1,8 @@
-Origin: misakaProject
-Label: misakaProject
+Origin: straight-tamago
+Label: straight-tamago
 Suite: stable
 Version: 1.0
 Codename: straight-tamago
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: misakaProject
+Description: straight-tamago
