@@ -5,13 +5,14 @@ Maintainer: Misaka Project
 Installed-Size: 792
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common
 Filename: ./debs/com.misakaproject.macaron_1.0.1_iphoneos-arm.deb
-Size: 409702
-MD5sum: 309b6e0dfc23d1e90e9dde3b050a9bb1
-SHA1: 565df02843b466ec30c0f0a32b9a5e7d32e09847
-SHA256: a2dde9d08bf7acb80021d989f59cb8a4822f83c0da0aab5e1ba7aca1d8961ff3
+Size: 409674
+MD5sum: 982595fbd47cc5c26699b393b7ea626b
+SHA1: 7b5d8de9bb582daedd91a7f0d0ec54ce65b25e6f
+SHA256: 074147ab37ad2716d41bf26d65e8d38c644924e111017e30b6ccc42312a42484
 Section: Tweaks
 Description: Displays a photo in the background of the dock for iOS15.
 Author: Misaka Project
+Icon: https://cdn.discordapp.com/attachments/1112951544518815805/1127911735613988955/icon3x.png
 Name: Macaron
 
 Package: com.misakaproject.macaron
@@ -21,13 +22,14 @@ Maintainer: Misaka Project
 Installed-Size: 792
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common
 Filename: ./debs/com.misakaproject.macaron_1.0.1_iphoneos-arm64.deb
-Size: 409732
-MD5sum: c3c0e9ec77c6913dcd0ca96ad9cf746d
-SHA1: 40cd044851db76c4d38c52cb65f6db14bbc04dee
-SHA256: c54fec68ce5757a017437e370c8752df922529a559bbb02ed8b3a515139391b2
+Size: 409888
+MD5sum: 036cb8a4c2f692de4b4c3948de659a72
+SHA1: 1484e44d79bcd537fb9f73d8b16bbbcfa5e8a448
+SHA256: 2bd08d1cb34402f5e50554e0b83d376014ba2b86ed78e0c60070a0fcb7d19676
 Section: Tweaks
 Description: Displays a photo in the background of the dock for iOS15.
 Author: Misaka Project
+Icon: https://cdn.discordapp.com/attachments/1112951544518815805/1127911735613988955/icon3x.png
 Name: Macaron
 
 Package: jp.uzra.cleansuggest
