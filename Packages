@@ -30,3 +30,53 @@ Description: Displays a photo in the background of the dock for iOS15.
 Author: Misaka Project
 Name: Macaron
 
+Package: jp.uzra.cleansuggest
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: uz.ra
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/jp.uzra.cleansuggest_1.0_iphoneos-arm.deb
+Size: 3372
+MD5sum: f78d1bbc12c5aab65265099da4ab1663
+SHA1: 130cbdb48d4c4959e58982a7125397b16642fb4c
+SHA256: 23388871af5e4fce2ca04c553bef9395b6732b0d31c4937facebfe14f5ba7472
+Section: Tweaks
+Description: Hide the labels in Siri suggestion widget
+Author: uz.ra
+Icon: https://media.discordapp.net/attachments/813615730473304064/1125737588515409920/phonto.JPG
+Name: CleanSuggest
+
+Package: jp.uzra.cleansuggest
+Version: 1.0-10+debug
+Architecture: iphoneos-arm64
+Maintainer: uz.ra
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/jp.uzra.cleansuggest_1.0-10debug_iphoneos-arm64.deb
+Size: 3412
+MD5sum: 01a808f95605512700e29912635bfde9
+SHA1: 5da03812248bba7f69131683c61d4ae6649c6508
+SHA256: f1e7db0564aae2e5afb887b7a054651882ca5b0a32bfe316f28473f3532d6066
+Section: Tweaks
+Description: Hide the labels in Siri suggestion widget
+Author: uz.ra
+Name: CleanSuggest
+
+Package: jp.uzra.medousa
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: uz.ra
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/jp.uzra.medousa_1.0_iphoneos-arm.deb
+Size: 3824
+MD5sum: 4a8f4c58732ac24fa969393367ad30a3
+SHA1: aaa44e03203f94eeecab4d08a5f0402acdacac27
+SHA256: 2b36449e73281f74e43d0ecf5275baec7bed9925f1ad42021dbc88243fe35f21
+Section: Tweaks
+Description: Enable "medusa" feature, generally known as iPad multi tasking feature, on ur iPhone!
+Author: uz.ra
+Icon: https://cdn.discordapp.com/attachments/813615730473304064/1127445655615451337/Medusa.jpg
+Name: medousa
+
