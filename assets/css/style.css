@@ -185,3 +185,7 @@ section.main ul li a:hover {
         opacity: 1
     }
 }
+
+a {
+    color: #fff;
+}
