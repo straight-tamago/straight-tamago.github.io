@@ -188,5 +188,8 @@ section.main ul li a:hover {
 
 a {
     color: #fff;
+}
+.link {
     padding: 5px;
 }
+
